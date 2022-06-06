@@ -25,7 +25,7 @@ SECRET_KEY = 'ff4d711e-933c-452f-b613-3f405bbad04f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://customsoundsinvbeta.azurewebsites.net/', 'http://treyahaltom.com/', 'http://customsoundsinvbeta-indev.azurewebsites.net/', '127.0.0.1', '20.118.40.6']
+ALLOWED_HOSTS = ['http://customsoundsinvbeta.azurewebsites.net/', 'http://treyahaltom.com/', 'http://customsoundsinvbeta-testing.azurewebsites.net/', '127.0.0.1', '20.118.40.6']
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
