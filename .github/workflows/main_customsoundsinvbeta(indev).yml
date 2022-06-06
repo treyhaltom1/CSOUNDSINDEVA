@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'customsoundsinvbeta'
           slot-name: 'INDEV'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FF69060B8DD4C66B3418D0E11A0DBD8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_532BA30DAA96495F903B636577812B31 }}
